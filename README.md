@@ -1,10 +1,12 @@
 ## Ajax with React Demo
 
-This demo will use:
+This demo uses:
 
-- The Star Wars API: https://swapi.co/
+- The Star Wars API: https://swapi.co/documentation
 - Axios 
 
 
-### npm install axios 
+```
+npm install axios 
+```
 
